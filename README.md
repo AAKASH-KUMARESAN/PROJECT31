@@ -1,1 +1,2 @@
-# PROJECT31
+# C31-Project
+Plinko game
